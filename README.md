@@ -25,4 +25,4 @@ Pre-requisites:
   
   >alias aws_ping='aws sts get-caller-identity'
   
-    simple command-line alias - best used to test if AWS credentials are properly configured and the AWS token is still valid
+  simple command-line alias - best used to test if AWS credentials are properly configured and the AWS token is still valid
