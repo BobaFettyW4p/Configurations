@@ -1,6 +1,6 @@
 # Configurations
 
-##.bashrc
+## .bashrc
 Pre-requisites: 
   Oh My Posh installed
   nerd font (Caskaydia) installed
